@@ -1,3 +1,3 @@
-# shoot-it
+# shoot
 Just another "Shoot the monster" game created using pygame.
 run the combat.py file 
